@@ -1,2 +1,2 @@
-# code_snippets
+# codesnippets
 A repository of code snippets for quick reference
